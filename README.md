@@ -1,2 +1,2 @@
 # k8s-workdrafts
-configs, commands and various quick snippets for workflow
+configs, commands and various workflow snippets
